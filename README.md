@@ -1,4 +1,3 @@
-# Code : FITCORE/lib/....
 
 # FITCORE: Fitness Mobile App
 
@@ -91,5 +90,10 @@ Leveraging the power of machine learning (ML) and computer vision, we can accu
 Health campaign in western Romania: 20 squats for a free bus ride 
 
 
+
+
+
+
+# Code : FITCORE/lib/....
 
 
