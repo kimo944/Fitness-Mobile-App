@@ -94,6 +94,5 @@ Health campaign in western Romania: 20 squats for a free bus ride
 
 
 
-# Code : FITCORE/lib/....
 
 
