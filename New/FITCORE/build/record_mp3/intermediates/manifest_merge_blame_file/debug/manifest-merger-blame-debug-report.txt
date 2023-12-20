@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.plugin.record_mp3" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml
+8
+9    <!-- 读取权限 -->
+10    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+10-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:5:5-80
+10-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:5:22-77
+11    <!-- 写权限 -->
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:7:22-78
+13    <!-- 保持进程在休眠时从屏幕消失 -->
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:9:5-68
+14-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:9:22-65
+15    <!-- 允许程序录制音频 -->
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:11:5-71
+16-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:11:22-68
+17    <!-- 内外置sd卡写权限 -->
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:7:5-81
+18-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:7:22-78
+19    <!-- 允许程序修改全局音频设置 -->
+20    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+20-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:15:5-80
+20-->C:\Users\karee\AppData\Local\Pub\Cache\hosted\pub.dev\record_mp3-3.0.0\android\src\main\AndroidManifest.xml:15:22-77
+21
+22</manifest>
