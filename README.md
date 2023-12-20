@@ -94,8 +94,6 @@ Health campaign in western Romania: 20 squats for a free bus ride
 
 
 
-FITCORE is a cutting-edge mobile application designed to revolutionize your fitness journey.
-Whether you're a seasoned athlete or just starting on your fitness path, this app is tailored to meet your needs.
-With a user-friendly interface and a plethora of features, FITCORE aims to provide a comprehensive and personalized fitness experience.
+# FITCORE is a cutting-edge mobile application designed to revolutionize your fitness journey.Whether you're a seasoned athlete or just starting on your fitness path, this app is tailored to meet your needs.With a user-friendly interface and a plethora of features, FITCORE aims to provide a comprehensive and personalized fitness experience.
 
 
